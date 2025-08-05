@@ -9,11 +9,11 @@ This script is designed as a **scambaiting tool** for those who want to fight ba
 
 * Instead of simply deleting files, this script replaces the contents of important files with a **clear, visible warning:**
 
-  > *"Wooh Delete delete delete........"*
+  > *"Wooh Delete fool....Scammer hahaha...."*
 
 * This causes a psychological impact on scammers: they see every file they stole, but **cannot access the original data anymore**.
 
-* It’s like a nightmare for them — **worse than deleting files silently**, because they face the constant reminder every time they try to open any stolen document or image.
+* It’s like a nightmare for them **worse than deleting files silently**, because they face the constant reminder every time they try to open any stolen document or image.
 
 ### How it works:
 
@@ -21,6 +21,19 @@ This script is designed as a **scambaiting tool** for those who want to fight ba
 * It then **overwrites the content** of each file with the warning message.
 * The original data is lost, but scammers are forced to confront the fact their theft is useless.
 * Drives or folders that do not exist are skipped automatically, so it runs smoothly without interruption.
+
+### Safe “Test” Version
+
+If you’d like to try this in a controlled environment first, there’s also a safe test variant that you can find in the releases:
+
+**What this test version does:**
+
+* Detects the folder where the script or executable runs.
+* Lists files in **only that folder** (no subfolders).
+* Overwrites all matching files with the warning message.
+* Shows a progress bar for the files found.
+
+This is perfect for safely testing the behavior on a small, controlled folder without risking data on other drives.
 
 ### Use responsibly:
 

@@ -68,11 +68,12 @@ This is perfect for safely testing the behavior on a small, controlled folder wi
 
 ### Use responsibly:
 
-* This tool is meant for **emergency situations** and for users aware of the consequences — data overwritten by this script **cannot be recovered**.
+* This tool is meant for **emergency situations** and for users aware of the consequences data overwritten by this script **cannot be recovered**.
 * Only run this if you are certain your files are compromised and you want to **take a stand against scammers**.
 * Always keep backups of important data elsewhere to avoid accidental loss.
 * If you find an executable version of this tool in the releases, **do NOT run it on your own PC unless you have a full backup** of your important files.
 
 ---
+> ![1600593720\_1shutterstock\_406413301](https://github.com/user-attachments/assets/09c49d2a-c8bc-4ecb-9262-7f52bf7393f4)
 
 © 2025 IHEfty — use at your own risk.

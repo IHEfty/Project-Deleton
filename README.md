@@ -9,7 +9,7 @@ This script is designed as a **scambaiting tool** for those who want to fight ba
 
 * Instead of simply deleting files, this script replaces the contents of important files with a **clear, visible warning:**
 
-  > *"You are a thief. This device has been locked down."*
+  > *"Wooh Delete delete delete........"*
 
 * This causes a psychological impact on scammers: they see every file they stole, but **cannot access the original data anymore**.
 

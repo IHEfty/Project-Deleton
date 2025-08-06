@@ -77,3 +77,17 @@ This is perfect for safely testing the behavior on a small, controlled folder wi
 > ![1600593720\_1shutterstock\_406413301](https://github.com/user-attachments/assets/09c49d2a-c8bc-4ecb-9262-7f52bf7393f4)
 
 © 2025 IHEfty — use at your own risk.
+---
+### 💸 Donations
+
+Want to support my learning and help me buy......
+
+> **Dogecoin address:**
+
+```
+DHERUQ8925qMWCcGzJZQe43E9yEfnpVK3p
+```
+
+Even small tips help me explore more advanced topics like encrypted shells, AV evasion, and secure coding. Thanks!
+
+
